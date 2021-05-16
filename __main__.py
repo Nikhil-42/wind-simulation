@@ -6,4 +6,5 @@ wind_direction = 0
 
 wind = np.array([wind_speed * np.cos(wind_direction), wind_speed * np.sin(wind_direction)])
 
-class PhysicsObject(object):
+class Test:
+    i = 0
